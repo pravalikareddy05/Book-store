@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    background-color: #1b1b1b;
+}
+
+.top-heading {
+    color: #ffffff;
+    font-family: bree Serif;
+    font-size: 28px;
+    padding: 20px 0px 0px 20px;
+}
+
+.abdul-bg {
+    background-color: #e6f6ff;
+    border-radius: 8px;
+    margin: 20px;
+    height: 190px;
+    width: 350px;
+}
+
+.abdul-image {
+    height: 190px;
+    width: 120px;
+}
+
+.about-abdul {
+    padding-left: 15px;
+}
+
+.abdul-book-heading {
+    color: #183b56;
+    font-family: bree Serif;
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.abdul-book-description {
+    color: #06070d;
+    font-family: bree serif;
+    font-size: 13px;
+    width: 150px;
+}
+
+.abdul-book-author {
+    color: #183b56;
+    font-family: Roboto;
+    font-size: 10px;
+    font-weight: bold;
+    padding-top: 12px;
+}
+
+.chetan-image {
+    height: 135px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.bottom-section {
+    margin-left: 18px;
+}
+
+.bottom-heading {
+    color: #ffffff;
+    font-family: bree serif;
+    font-size: 20px;
+}
+
+.harry-image {
+    height: 135px;
+    width: 100px;
+    padding-bottom: 10px;
+}
+
+.about-chetan {
+    margin-left: 12px;
+}
+
+.book-name {
+    color: #ffffff;
+    font-family: bree Serif;
+    font-size: 16px;
+
+}
+
+.author-name {
+    color: #ffffff;
+    font-family: bree Serif;
+    font-size: 10px;
+    width: 80px;
+}
+
+.btn {
+    font-size: 13px;
+    font-family: Roboto;
+    margin-top: 10px;
+}
+
+
+
+.about-harry {
+    margin-left: 12px;
+
+}
+
+.author-name-harry {
+    color: #ffffff;
+    font-family: bree Serif;
+    font-size: 10px;
+    width: 110px;
+}
+
+.apj-image {
+    height: 300px;
+    width: 200px;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+.book {
+    color: #ffffff;
+    padding-top: 20px;
+    font-family: bree Serif;
+    font-size: 24px;
+
+}
+
+.author {
+    color: #9aa5b1;
+    font-family: bree serif;
+    font-size: 12px;
+}
+
+.description {
+    color: #9aa5b1;
+    font-family: bree serif;
+    font-size: 13px;
+    text-align: left;
+    padding: 0px 25px;
+}
+
+.cb-image {
+    height: 250px;
+    width: 200px;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+.hp-image {
+    height: 250px;
+    width: 200px;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+.btn {
+    margin: 2px;
+    margin-bottom: 30px;
+}
